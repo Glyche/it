@@ -1,0 +1,2 @@
+# it
+Operazioni Git
